@@ -1,2 +1,4 @@
 native :     thunar-archive-plugin file-roller unrar gvfs-mtp gvfs-gphoto2 ntfs-3g libreoffice-fresh viewnior smplayer mplayer transmission-gtk gdb
 aur    :     
+url    :
+1)git@github.com:GreyCat9515/Android.git
