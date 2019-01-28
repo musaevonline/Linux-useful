@@ -1,4 +1,6 @@
-native :     thunar-archive-plugin file-roller unrar gvfs-mtp gvfs-gphoto2 ntfs-3g libreoffice-fresh viewnior smplayer mplayer transmission-gtk gdb
-aur    :     
-url    :
-1)git@github.com:GreyCat9515/Android.git
+xfce:
+  native :     thunar-archive-plugin file-roller unrar unzip gvfs-mtp gvfs-gphoto2 ntfs-3g libreoffice-fresh viewnior smplayer mplayer transmission-gtk gdb
+  aur    :     
+
+kde:
+  networkmanager ark unrar unzip bluez wget chromium thunar jre-openjdk jdk-openjdk nmap nc sqlmap kate nasm vim geany qtcreator cmake libreoffice-fresh viewnior smplayer mplayer transmission-gtk
