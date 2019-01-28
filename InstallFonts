@@ -1,0 +1,10 @@
+#!/bin/bash
+mkdir /usr/share/fonts/TTFmisc
+cd /usr/share/fonts/TTFmisc
+wget -O ./liberation-fonts.tar.gz https://bugzilla.redhat.com/attachment.cgi?id=290976 
+tar -xf ./liberation-fonts.tar.gz
+cp ./liberation-fonts/*.ttf ./
+rm -R ./liberation-fonts/
+rm -R liberation-fonts.tar.gz
+mkfontscale
+mkfontdir
