@@ -3,4 +3,4 @@ xfce:
   aur    :     
 
 kde:
-  networkmanager ark unrar unzip bluez wget chromium thunar jre-openjdk jdk-openjdk nmap nc sqlmap kate nasm vim geany qtcreator cmake libreoffice-fresh viewnior smplayer mplayer transmission-gtk
+  networkmanager ark unrar unzip bluez wget chromium thunar jre-openjdk jdk-openjdk git nmap nc sqlmap kate nasm vim geany qtcreator cmake libreoffice-fresh viewnior smplayer mplayer transmission-gtk
